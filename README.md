@@ -1,2 +1,2 @@
 # Hello-World
-I'm trying to lear to code
+I'm trying to learn how to code
